@@ -25,7 +25,7 @@
     'sequence': 14,
     'summary': 'Accounting, Payment, Check, Third, Issue',
     'description': """
-Account Check Management
+Account Check Management-Romina Scherzer
 ========================
 
 TODO: multicurrency
